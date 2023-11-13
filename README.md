@@ -12,3 +12,5 @@ Data Preparation and Data Mining
 Final score = Score * %attendance
 
 ((ทำ temple of content แล้วกดเข้าไปได้))
+
+#
