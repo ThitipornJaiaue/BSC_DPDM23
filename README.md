@@ -13,7 +13,8 @@ Final score = Score * %attendance
 
 ((ทำ temple of content แล้วกดเข้าไปได้))
 
-# Homework 1 Frequent Itemsets (Patterns) and Association Rules
+# Homework 1 
+**Frequent Itemsets (Patterns) and Association Rules
 Member
 - 643021260-7  นางสาวกิติลักษณ์ ลาดโฮม
 - 643021261-5  นางสาวจารุพร การร้อย
