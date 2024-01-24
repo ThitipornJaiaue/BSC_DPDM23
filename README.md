@@ -20,14 +20,16 @@ Member
 - 643021261-5  นางสาวจารุพร การร้อย
 - 643021263-1  นางสาวชนม์ชนก อังคุระษี
 - 643021266-5  นางสาวธิติพร ใจเอื้อ
+  
 Githup
 https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/c26f16e657e1565f4f1fde3311ff31276c8f0d0f/Freq_HW1.ipynb
-Presentation
-HW1_กลุ่มหอยหลอดด.pdf
+
+Presentation HW1_กลุ่มหอยหลอดด.pdf
 https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/819ed62853bfbc2d6e22da9faf1fc6ae48558cfa/HW1_%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf
 
 ## Homework 2 Attribute selection with information Gain & Decision Tree induction
 - 643021266-5  นางสาวธิติพร ใจเอื้อ
+  
 HW2_Decision Tree.pdf
 https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/0cc5519f5395f39a715bd1a1c229a05df9a8992b/HW2_Decision%20Tree.pdf
 
