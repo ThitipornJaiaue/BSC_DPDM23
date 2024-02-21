@@ -53,3 +53,5 @@ Githup
 https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/8d20fd7675f791b5d8fc359645df383795d140d1/Classification.ipynb
 
 # Note
+
+[2022.jpg](https://postimg.cc/QFDhQw5Q)
