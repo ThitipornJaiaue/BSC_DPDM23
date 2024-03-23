@@ -1,6 +1,10 @@
 # BSC_DPDM23
 Data Preparation and Data Mining
 
+# NAME
+
+- 643021266-5  นางสาวธิติพร ใจเอื้อ
+
 # SCORE
 - Midterm (data preprocessing ปฏิบัติ (เดี่ยว)) 20% - วันที่ 9-11 กุมภาพันธ์ Due 23.59 น.
 - Final (ทฤษฎี data mining (เดี่ยว)) 20% - วันที่ 20 มีนาคม เวลา 13:00-17:00 น.
@@ -32,7 +36,7 @@ CODE:
 
 เตรียมสอบ
 
-p
+![final](https://github.com/ThitipornJaiaue/BSC_DPDM23/assets/137043436/16de3530-9a0c-4cfe-84a9-73837267e94f)
 
 ---------------------------------------------------------------------------------------------------------------
 # HOMEWORK 1 
@@ -108,8 +112,29 @@ Presentation: HW4_Decision Tree_Presentation.pdf
 (https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/9fabd3a724f26fcd0b03518cadce43e12d8ca294/HW4_Decision%20Tree_Presentation.pdf)
 
 --------------------------------------------------------------------------------------------------------------------
+# HOMEWORK 5
+ข่ายงานประสาทเทียม (ANN: Artificial Neural Network)
+
+- 643021266-5  นางสาวธิติพร ใจเอื้อ
+
+![hw5](https://github.com/ThitipornJaiaue/BSC_DPDM23/assets/137043436/2a4b6dd7-1add-43b8-add1-98ead2e36ffd)
+
+ข่ายงานประสาทเทียม (ANN: Artificial Neural Network)
+CODE:(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/448f42e55f1444ee04575980877ac0b388f8ae41/HW5_ANN.pdf)
+
+--------------------------------------------------------------------------------------------------------------------
 # PROJECT 
 data preprocessing + data mining (กลุ่ม) 30%
+
+Member 
+
+- 643020513-9  นายภัทรธร ก้อนมณี
+- 643020515-5  นายรัชชานนท์ ทิพย์พิมานพร
+- 643020521-0  นายวุฒิชัย คำนา
+- 643021260-7  นางสาวกิติลักษณ์ ลาดโฮม
+- 643021261-5  นางสาวจารุพร การร้อย
+- 643021263-1  นางสาวชนม์ชนก อังคุระษี
+- 643021266-5  นางสาวธิติพร ใจเอื้อ
 
 CODE:
 (https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/6179effddfc00f9a00d58b0e45c85f41aab0e709/Project.ipynb)
@@ -169,9 +194,42 @@ CODE:
 (https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/cf42522a835a167a37fd0e29bd6af3c8fc5bdc73/10ClusBasic.pdf)
 
 --------------------------------------------------------------------------------------------------------------------
-# CODE
+# CODE in CLASS
 
+Understanding_Data
+CODE:
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/448f42e55f1444ee04575980877ac0b388f8ae41/Understanding_Data.ipynb)
 
+Frequent_Patterns_(Association_Rules)
+CODE:
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/448f42e55f1444ee04575980877ac0b388f8ae41/Frequent_Patterns_(Association_Rules).ipynb)
 
+Dimensionality_Reduction_PCA
+CODE:
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/448f42e55f1444ee04575980877ac0b388f8ae41/Dimensionality_Reduction_PCA.ipynb)
 
+Data_Preprocessing
+CODE:
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/448f42e55f1444ee04575980877ac0b388f8ae41/Data_Preprocessing.ipynb)
+
+Classification
+CODE:
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/448f42e55f1444ee04575980877ac0b388f8ae41/Classification.ipynb)
+
+-------------------------------------------------------------------------------------------------------------------
+# QUIZ
+
+- QUIZ 8.pdf
+  
+![Q8](https://github.com/ThitipornJaiaue/BSC_DPDM23/assets/137043436/e71373f0-0fe0-40e2-92a0-6b3f4f7df0ac)
+
+CODE:
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/448f42e55f1444ee04575980877ac0b388f8ae41/Quiz%208.pdf)
+
+- QUIZ 9.pdf
+  
+CODE:
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/448f42e55f1444ee04575980877ac0b388f8ae41/Quiz%209.pdf)
+
+---------------------------------------------------------------------------------------------------------------
 
