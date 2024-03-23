@@ -17,7 +17,7 @@ data preprocessing - ปฏิบัติ (เดี่ยว) 20% - วัน�
 
 ![mid](https://github.com/ThitipornJaiaue/BSC_DPDM23/assets/137043436/36dcfbae-6da0-40f9-85cd-be75f481687d)
 
-Githup:
+CODE:
 (https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/cd261110280102a2bb3c98c25fac1945eca475b0/midterm_bscdpdm23.ipynb)
 
 ---------------------------------------------------------------------------------------------------------------
@@ -44,7 +44,7 @@ Member
 - 643021263-1  นางสาวชนม์ชนก อังคุระษี
 - 643021266-5  นางสาวธิติพร ใจเอื้อ
 
-Githup:(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/c26f16e657e1565f4f1fde3311ff31276c8f0d0f/Freq_HW1.ipynb)
+CODE:(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/c26f16e657e1565f4f1fde3311ff31276c8f0d0f/Freq_HW1.ipynb)
 
 ![pre1](https://github.com/ThitipornJaiaue/BSC_DPDM23/assets/137043436/4c3cc679-1775-4a0b-b9d6-415273d49008)
 
@@ -76,7 +76,7 @@ Member
 - 643021268-1  นายพุทธิพงศ์ ยางนอก
 - 643021273-8  นายศตวรรษ มูลสันเทียะ
 
-Githup:(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/8d20fd7675f791b5d8fc359645df383795d140d1/Classification.ipynb)
+CODE:(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/8d20fd7675f791b5d8fc359645df383795d140d1/Classification.ipynb)
 
 ![pre3](https://github.com/ThitipornJaiaue/BSC_DPDM23/assets/137043436/c5cfd34b-bbe2-4eb1-84b5-a8a5fbf52216)
 
@@ -100,7 +100,7 @@ Member
 ![tree4](https://github.com/ThitipornJaiaue/BSC_DPDM23/assets/137043436/6e28fa84-f782-459b-a28d-c260ae46275a)
 
 คำนวณมือ Decision Tree -  criterion, max_leaf_nodes
-Githup:(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/9fabd3a724f26fcd0b03518cadce43e12d8ca294/HW4_criterionmax-leaf-nodes.pdf)
+CODE:(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/9fabd3a724f26fcd0b03518cadce43e12d8ca294/HW4_criterionmax-leaf-nodes.pdf)
 
 ![pre4](https://github.com/ThitipornJaiaue/BSC_DPDM23/assets/137043436/51595166-2ee1-4a74-9f65-e2bdd8b02fe2)
 
@@ -111,7 +111,7 @@ Presentation: HW4_Decision Tree_Presentation.pdf
 # PROJECT 
 data preprocessing + data mining (กลุ่ม) 30%
 
-Githup:
+CODE:
 (https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/6179effddfc00f9a00d58b0e45c85f41aab0e709/Project.ipynb)
 
 - นำเสนอข้อมูล วันที่ 26 กุมภาพันธ์ 2567
@@ -129,40 +129,44 @@ Presentation:
 --------------------------------------------------------------------------------------------------------------------
 # NOTE 
 
-- 01intro
-
-Githup:
-()
-
-- 02Data
-
-Githup:
-()
-
-- 03Preprocessing
-
-Githup:
-()
-
-- 06FPBasic
+- 01intro.pdf
 
 CODE:
-()
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/5ee9b8cac045ff1c0a08546e8f0f04f95d51dc1b/01Intro.pdf)
 
-- 08ClassBasic
-
-CODE:
-()
-
-- 09ClassAdvanced
+- 02Data.pdf
 
 CODE:
-()
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/5ee9b8cac045ff1c0a08546e8f0f04f95d51dc1b/02Data.pdf)
+
+- 03Preprocessing.pdf
+
+CODE:
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/cf42522a835a167a37fd0e29bd6af3c8fc5bdc73/03Preprocessing.pdf)
+
+- 06FPBasic.pdf
+
+CODE:
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/cf42522a835a167a37fd0e29bd6af3c8fc5bdc73/06FPBasic.pdf)
+
+- 08ClassBasic.pdf
+
+
+CODE:
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/cf42522a835a167a37fd0e29bd6af3c8fc5bdc73/08ClassBasic.%20(1).pdf)
+
+CODE:
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/cf42522a835a167a37fd0e29bd6af3c8fc5bdc73/08ClassBasic.%20(2).pdf)
+
+- 09ClassAdvanced.pdf
+
+CODE:
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/cf42522a835a167a37fd0e29bd6af3c8fc5bdc73/09ClassAdvanced..pdf)
 
 - 10ClusBasic
 
-Githup:
-()
+CODE:
+(https://github.com/ThitipornJaiaue/BSC_DPDM23/blob/cf42522a835a167a37fd0e29bd6af3c8fc5bdc73/10ClusBasic.pdf)
 
 --------------------------------------------------------------------------------------------------------------------
 # CODE
